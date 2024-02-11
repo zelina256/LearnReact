@@ -2,13 +2,13 @@
 import React, { useState } from "react";
 
 const ObjectHook = () => {
-  const [person, setPerson] = useState({
-    name: "Peter",
-    age: 24,
-    message: "some text",
-  });
-  const [name, setName] = useState("Peter");
-  const [age, setAge] = useState(26);
+  // const [person, setPerson] = useState({
+  //   name: "Peter",
+  //   age: 24,
+  //   message: "some text",
+  // });
+  const [name] = useState("Peter");
+  const [age] = useState(26);
   const [message, setMessage] = useState("some text");
   const changeMessage = () => {
     // setPerson({ ...person, message: "Hello World" });
