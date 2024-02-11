@@ -94,9 +94,9 @@ const ReactInfo = () => {
     //     ]
     // }
     return (
-        <Container className='my-5' >
+        <Container className='my-5'>
             <h1>What is React?</h1>
-        </Container >
+        </Container>
     )
 }
 
