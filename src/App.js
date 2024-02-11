@@ -1,8 +1,8 @@
 import RulesJSX from "./2-Jsx/Rules/RulesJSX";
 import Bootstrap from "./4-Bootstrap/Bootstrap";
 import NavigateBar from "./4-Bootstrap/NavigateBar";
-import { Container } from "react-bootstrap";
-import AndCondition from "./2-Jsx/Conditions/AndCondition";
+// import { Container } from "react-bootstrap";
+// import AndCondition from "./2-Jsx/Conditions/AndCondition";
 import Flowers from "./5-Props/Places/R3-Props/Flowers";
 // import Books from "./5-Props/Book/Books";
 
@@ -16,7 +16,7 @@ import UseStateHook from "./7-Hooks/useState/UseStateHook";
 import UseEffectHook from "./7-Hooks/useEffect/UseEffectHook";
 import Places1 from './5-Props/Places/R1-Props/Places1'
 import Places2 from './5-Props/Places/R2-Props/Places2'
-import Places3 from './5-Props/Places/R3-Props/Places3'
+// import Places3 from './5-Props/Places/R3-Props/Places3'
 function App() {
   return (
 
