@@ -2,7 +2,7 @@
   "name": "learn_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://zelina256.github.io/LearnReact",
+  "homepage": "",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -44,6 +44,14 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.1.0"
-  }
+  },
+  "production": [
+      "chrome >= 67",
+      "edge >= 79",
+      "firefox >= 68",
+      "opera >= 54",
+      "safari >= 14" 
+ ]
 }
