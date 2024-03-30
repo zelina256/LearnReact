@@ -16,6 +16,7 @@ import UseStateHook from "./7-Hooks/useState/UseStateHook";
 import UseEffectHook from "./7-Hooks/useEffect/UseEffectHook";
 import Places1 from './5-Props/Places/R1-Props/Places1'
 import Places2 from './5-Props/Places/R2-Props/Places2'
+import FormReact from "./7-Hooks/FormReact";
 // import Places3 from './5-Props/Places/R3-Props/Places3'
 function App() {
   return (
@@ -34,6 +35,7 @@ function App() {
         <Route path="/ReactRouterDom" element={<PersonData />} />
         <Route path="/useStateHook" element={<UseStateHook />} />
         <Route path="/useEffectHook" element={<UseEffectHook />} />
+        <Route path="/fromReact" element={<FormReact />} />
         <Route path="/Crud" element={<PersonData />} />
       </Routes>
       {/*

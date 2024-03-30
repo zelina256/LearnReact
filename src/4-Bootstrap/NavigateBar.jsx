@@ -28,7 +28,7 @@ const NavigateBar = () => {
                 useEffect
               </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="/rules">React Forms</Nav.Link>
+            <Nav.Link href="/fromReact">React Forms</Nav.Link>
             <Nav.Link href="/Crud">Crud</Nav.Link>
           </Nav>
         </Navbar.Collapse>
