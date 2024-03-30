@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/LearnReact/static/css/main.35d3df60.css",
+    "main.js": "/LearnReact/static/js/main.c4171155.js",
+    "static/media/lavander.jpg": "/LearnReact/static/media/lavander.a6e2e117e59d969c7933.jpg",
+    "static/media/sunflower.jpg": "/LearnReact/static/media/sunflower.845a4a33c15e7868c5c0.jpg",
+    "static/media/southKorea.jpg": "/LearnReact/static/media/southKorea.b11f173719efed039dea.jpg",
+    "static/media/japan.jpg": "/LearnReact/static/media/japan.f01fdafeacc3d654a11e.jpg",
+    "static/media/poppies.jpg": "/LearnReact/static/media/poppies.7962bcad6980c1efd0e5.jpg",
+    "static/media/autralia.jpg": "/LearnReact/static/media/autralia.64e967910ab24ad18825.jpg",
+    "index.html": "/LearnReact/index.html",
+    "main.35d3df60.css.map": "/LearnReact/static/css/main.35d3df60.css.map",
+    "main.c4171155.js.map": "/LearnReact/static/js/main.c4171155.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35d3df60.css",
+    "static/js/main.c4171155.js"
+  ]
+}
